@@ -1,0 +1,26 @@
+body{
+
+    background-color: rgb(66, 101, 177);
+}
+.mydiv{
+
+    background-color: blueviolet;
+  margin: 50px;
+}
+
+#btn{
+    background-color: green;
+    border: hotpink;
+size: 50px;
+
+}
+
+#contain
+{
+    margin: 20px;
+}
+
+#animal-info{
+
+    margin: 10px;
+}
